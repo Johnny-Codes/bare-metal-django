@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 bm_root = os.getenv("BM_ROOT")
-print('------------ bm root', bm_root)
+
 def blinky(request):
     blinky_path = "blink_led/"
     pa = bm_root + blinky_path
