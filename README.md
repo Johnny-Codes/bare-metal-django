@@ -27,6 +27,7 @@ Kind of my proof of concept for IOT/Home Automation without using Home Automatio
 ### C:
 paho.mqtt.c
 
-### Python:
-probably will use paho as well
+compile with `-lpaho-mqtt3c` for synchronous or `-lpaho-mqtt3a` for asynch
 
+### Python:
+using paho mqtt
