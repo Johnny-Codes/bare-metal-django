@@ -1,4 +1,7 @@
 .venv
 .env
 db.sqlite3
-static/
+static
+*.swp
+*.pyc
+*.out
