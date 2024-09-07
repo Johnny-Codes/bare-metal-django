@@ -21,3 +21,12 @@ See my bare-metal-pi repository https://www.github.com/Johnny-Codes/bare-metal-p
 `kill -15 PID`
 
 Kind of my proof of concept for IOT/Home Automation without using Home Automation (the program)
+
+
+## MQTT:
+### C:
+paho.mqtt.c
+
+### Python:
+probably will use paho as well
+
